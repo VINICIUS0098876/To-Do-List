@@ -43,6 +43,7 @@ Este projeto é uma aplicação completa de lista de tarefas (**To-Do List**) de
 
 - Cadastro, edição e remoção de tarefas
 - Cadastro e Login de usuários
+- Uso de JWT(Jason Web Token) para autenticação de usuários
 - Marcação de tarefas como concluídas
 - Filtros para exibir tarefas pendentes ou concluídas
 - Persistência das tarefas no banco de dados
