@@ -1,4 +1,4 @@
-# To-Do List - EM MANUTENÇÃO!
+# To-Do List
 
 Este projeto é uma aplicação completa de lista de tarefas (**To-Do List**) desenvolvida em arquitetura **Full Stack**, permitindo que usuários organizem suas atividades diárias de maneira eficiente, com interface intuitiva e API robusta.
 
